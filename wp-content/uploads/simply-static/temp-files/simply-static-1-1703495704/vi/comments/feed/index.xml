@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Tin Hay	</title>
+	<atom:link href="https://tuvo123.github.io/tinhay4/vi/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuvo123.github.io/tinhay4/vi/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 22 Dec 2023 19:49:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		Phản hồi cho Bạn thân bởi qt		</title>
+		<link>https://tuvo123.github.io/tinhay4/vi/ban-than/#comment-2</link>
+
+		<dc:creator><![CDATA[qt]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2020 01:47:11 +0000</pubDate>
+		<guid isPermaLink="false">https://tuvo123.github.io/tinhay4/?p=24#comment-2</guid>
+
+					<description><![CDATA[Như kẹt]]></description>
+			<content:encoded><![CDATA[<p>Như kẹt</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
